@@ -1,10 +1,7 @@
-# szurubooru
+# Senritsubooru
 
-Szurubooru is an image board engine inspired by services such as Danbooru,
-Gelbooru and Moebooru dedicated for small and medium communities. Its name [has
-its roots in Polish language and has onomatopeic meaning of scraping or
-scrubbing](https://sjp.pwn.pl/sjp/;2527372). It is pronounced as *shoorubooru*.
-
+Senritsubooru is an image board engine inspired by services such as Danbooru,
+Gelbooru and Moebooru dedicated for small and medium communities.
 ## Features
 
 - Post content: images (JPG, PNG, GIF, animated GIF), videos (MP4, WEBM), Flash animations
