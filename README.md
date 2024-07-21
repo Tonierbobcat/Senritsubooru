@@ -44,7 +44,7 @@ Post list:
 
 Post view:
 
-![20160908_180429_lmp](https://cloud.githubusercontent.com/assets/1045476/18356731/3f1566ee-75ee-11e6-9594-e86ca7347b0f.png)
+![Screenshot 2024-07-21 at 14-14-27 Senryuubooru – Listing posts](https://github.com/user-attachments/assets/cdbd9025-af5f-4179-8a68-d2112d333f53)
 
 ## License
 
