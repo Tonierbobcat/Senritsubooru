@@ -1,10 +1,7 @@
-# szurubooru
+# Senritsubooru
 
-Szurubooru is an image board engine inspired by services such as Danbooru,
-Gelbooru and Moebooru dedicated for small and medium communities. Its name [has
-its roots in Polish language and has onomatopeic meaning of scraping or
-scrubbing](https://sjp.pwn.pl/sjp/;2527372). It is pronounced as *shoorubooru*.
-
+Senritsubooru is an image board engine inspired by services such as Danbooru,
+Gelbooru and Moebooru dedicated for small and medium communities.
 ## Features
 
 - Post content: images (JPG, PNG, GIF, animated GIF), videos (MP4, WEBM), Flash animations
@@ -27,6 +24,7 @@ scrubbing](https://sjp.pwn.pl/sjp/;2527372). It is pronounced as *shoorubooru*.
 - Browser configurable endless paging
 - Browser configurable backdrop grid for transparent images
 
+
 ## Installation
 
 It is recommended that you use Docker for deployment.
@@ -39,11 +37,11 @@ More installation resources, as well as related projects can be found on the
 
 Post list:
 
-![20160908_180032_fsk](https://cloud.githubusercontent.com/assets/1045476/18356730/3f1123d6-75ee-11e6-85dd-88a7615243a0.png)
+![Screenshot 2024-07-21 at 14-14-27 Senryuubooru – Listing posts](https://github.com/user-attachments/assets/75f00d77-3791-4b6c-8a76-3fad44580622)
 
 Post view:
 
-![20160908_180429_lmp](https://cloud.githubusercontent.com/assets/1045476/18356731/3f1566ee-75ee-11e6-9594-e86ca7347b0f.png)
+![Screenshot 2024-07-21 at 14-19-06 Senryuubooru – Post #543](https://github.com/user-attachments/assets/1a55a5c9-530c-4ee4-89a5-0153a56ecbf3)
 
 ## License
 
