@@ -27,6 +27,7 @@ scrubbing](https://sjp.pwn.pl/sjp/;2527372). It is pronounced as *shoorubooru*.
 - Browser configurable endless paging
 - Browser configurable backdrop grid for transparent images
 
+
 ## Installation
 
 It is recommended that you use Docker for deployment.
@@ -39,7 +40,7 @@ More installation resources, as well as related projects can be found on the
 
 Post list:
 
-![20160908_180032_fsk](https://cloud.githubusercontent.com/assets/1045476/18356730/3f1123d6-75ee-11e6-85dd-88a7615243a0.png)
+![Screenshot 2024-07-21 at 14-14-27 Senryuubooru – Listing posts](https://github.com/user-attachments/assets/75f00d77-3791-4b6c-8a76-3fad44580622)
 
 Post view:
 
