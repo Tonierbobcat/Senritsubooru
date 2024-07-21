@@ -44,7 +44,7 @@ Post list:
 
 Post view:
 
-![Screenshot 2024-07-21 at 14-14-27 Senryuubooru – Listing posts](https://github.com/user-attachments/assets/cdbd9025-af5f-4179-8a68-d2112d333f53)
+![Screenshot 2024-07-21 at 14-19-06 Senryuubooru – Post #543](https://github.com/user-attachments/assets/1a55a5c9-530c-4ee4-89a5-0153a56ecbf3)
 
 ## License
 
