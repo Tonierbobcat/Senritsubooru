@@ -11,16 +11,15 @@ const defaultSettings = {
     upscaleSmallPosts: false,
     endlessScroll: false,
     keyboardShortcuts: true,
-    transparencyGrid: true,
+    transparencyGrid: false,
     fitMode: "fit-both",
-    tagSuggestions: true,
+    tagSuggestions: false,
     autoplayVideos: false,
     postsPerPage: 42,
     tagUnderscoresAsSpaces: false,
-    darkTheme: false,
-    postFlow: false,
+    darkTheme: true,
+    postFlow: true,
 };
-
 class Settings extends events.EventTarget {
     constructor() {
         super();

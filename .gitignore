@@ -1,15 +1,12 @@
-# User-specific configuration
-config.yaml
-.env
+# Ignore User-Data
+/data/
+/sql/
 
 # Client Development Artifacts
 */*_modules/
 client/public
 
-# Server Development Artifacts
-.coverage
-.cache
-server/**/lib/
-server/**/bin/
-server/**/pyvenv.cfg
-__pycache__/
+# Ignore the .env file
+.env
+
+docker-compose.yml
